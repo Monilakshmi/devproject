@@ -64,3 +64,13 @@
 </build>
 	
 </project>
+
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>NEW_VERSION_HERE</version> <!-- Update this with the latest version -->
+        </plugin>
+    </plugins>
+</build>
